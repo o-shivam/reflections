@@ -13,3 +13,11 @@ Because:
 i) It will cause more data charges.
 ii) It will mess up everything.
 
+
+3) Describe the difference between forks, clones and branches. When would you use one instead of another?
+
+Ans. Forks - When I want to copy any user's repository on my profile on Github
+     Branches - Experimental codes written wrt to main project
+     Clones - Copy of repository on the local computer
+
+
