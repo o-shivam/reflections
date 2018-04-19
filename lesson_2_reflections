@@ -1,0 +1,51 @@
+1) What happens when you initialize a repsoitory? Why do you need to do it?
+
+Ans. When a repository is initialized it makes a .git file under the folder which is reponsible for accessing
+and storing the commits of the file.
+It is highly recommended to be used for big projects like making technical apps as it will store all the changes made
+throughout the life of the app and makes it easier to find the bugs.
+
+
+2) How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Ans. Staging area is like an intermediate level between working repso=itory and repository.
+It makes the task a lot easier by adding them ( and if I have mistakenly added a file then I can also Delete it) and
+then commiting.
+
+
+3) How can you use the staging area to make sure you have one commit per logical change?
+
+Ans. We can check that by using:
+ git diff
+ This command will let you know the difference by comparing the changes done in the staging area and the working repository.
+
+
+4) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Ans. It is useful when we are working on a big project and we want to update it by adding some features. Branches help
+because with them we can add and test the new features without touching the main project or even help in making new versions
+of the same app.
+
+
+5) How do the diagrams help you visualize the branch structure?
+
+Ans. Since Git history can be non-linear there is always a possibility that we could get messed up.
+This diagram feature help us to understand the mater branch and the other branches very well in an understandable way.
+
+
+6) What is the result of merging two branches together? Why do we represent it in the diagram the way it do?
+
+Ans. As the result we get the features of both the branches in a single file. We represent it in the way because 
+it makes it really understandable.
+
+
+7) What are the pros and cons of the automatic merging vs always doing merges manually?
+
+Ans. Pros-
+i) Makes the task a lot easier.
+ii) No need to look at the changes
+
+Cons-
+i) It gives conflict when it does not understands the modification
+ii) Manually merging is sometimes helpful
+
