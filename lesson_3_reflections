@@ -20,4 +20,16 @@ Ans. Forks - When I want to copy any user's repository on my profile on Github
      Branches - Experimental codes written wrt to main project
      Clones - Copy of repository on the local computer
 
+	 
+4) What is the benefit of having a copy of the last known state of the remote stored locally ?
+
+Ans. It helps in case there is conflict between two commits and it also helps in keepin the local
+repository up to date with the remote.
+
+
+5) How would you collaborate without uing Git and GitHub ? What would be easier, and what would be harder ?
+
+Ans. The only way to collaborate without it is through collaborating offline on our local computers
+and changing and extending the code.
+It would be harder, and very ineffiecient.... Thanks to Git and GitHub :)
 
