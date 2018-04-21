@@ -1,0 +1,22 @@
+Git commands :
+
+1) git diff : It takes two arguments - the two commit ids to compare
+2) git clone : It takes one argument - the url of the repository to copy
+3) git checkout : It takes one argument - the commit ID to restore
+4) git log : It doesn't take any arguments and shows the commits made in this repository, starting with the most recent
+5) git status : It needs no arguments - the contents of the file are shown
+6) git add : no arguments - adds files to the staging area as a single commit
+7) git commit : no arguments- adds message to the commit
+8) git init - no arguments - creates repository on the computer for the given file
+9) git checkout master - no arguments - Switches to master branch, - with 1 argument - Switches to the given branch
+10) git diff- with no arguments - compares the file in working repository and staging area
+11) git diff --staged - no arguments - compares the commit in the staging area and the repository
+12) git  reset --hard - no arguments - removes any file in the staging area
+13) git reset - no arguments - removes any file in the staging area, if any file is added accidently in the staging area
+14) git branch - no arguments - shows current branch with * on it , - with 1 argument - creates a branch with a given name
+15) 
+16)
+17)
+18)
+19)
+20)
