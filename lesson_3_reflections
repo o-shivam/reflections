@@ -21,3 +21,11 @@ Ans. Forks - When I want to copy any user's repository on my profile on Github
      Clones - Copy of repository on the local computer
 
 
+4) When would you want to make changes in a separate branch rather than directly in master ?
+What benefits does each approach have?
+
+Ans. When I am unsure about the feature then I would like to work in a separate branch and test it.
+And after my testing I can happily merge that branch in master to update it.
+Both have their own benefits like, a separate branch allows to add features without breaking the already
+working main project.
+while main project is just pretty straight forward like, do and done !!
