@@ -33,7 +33,7 @@ Ans. The only way to collaborate without it is through collaborating offline on 
 and changing and extending the code.
 It would be harder, and very ineffiecient.... Thanks to Git and GitHub :)
 
-4) When would you want to make changes in a separate branch rather than directly in master ?
+6) When would you want to make changes in a separate branch rather than directly in master ?
 What benefits does each approach have?
 
 Ans. When I am unsure about the feature then I would like to work in a separate branch and test it.
